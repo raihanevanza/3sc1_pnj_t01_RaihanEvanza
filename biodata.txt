@@ -1,2 +1,3 @@
 no reg  : 1807412005
 nama : raihan evanza
+jurusan : tik
