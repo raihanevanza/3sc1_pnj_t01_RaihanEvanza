@@ -1,3 +1,4 @@
-no reg  : 1807412005
-nama : raihan evanza
-jurusan : tik
+No Reg	 :	1807412005
+Nama	 : 	Raihan Evanza
+Jurusan	 :	Tik
+Angkatan :	2018	
